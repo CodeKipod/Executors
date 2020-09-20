@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Roman.Ambinder.Executors", "Roman.Ambinder.Executors.csproj", "{80D3F62E-2F4E-4162-ABF9-72251E361F7C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Roman.Ambinder.Executors.Tests", "..\Roman.Ambinder.Executors.Tests\Roman.Ambinder.Executors.Tests.csproj", "{28CEE4D6-174A-4644-AB8E-0D70E57C55BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80D3F62E-2F4E-4162-ABF9-72251E361F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D3F62E-2F4E-4162-ABF9-72251E361F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D3F62E-2F4E-4162-ABF9-72251E361F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D3F62E-2F4E-4162-ABF9-72251E361F7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28CEE4D6-174A-4644-AB8E-0D70E57C55BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28CEE4D6-174A-4644-AB8E-0D70E57C55BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28CEE4D6-174A-4644-AB8E-0D70E57C55BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28CEE4D6-174A-4644-AB8E-0D70E57C55BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA248AC0-3F11-4AF7-991A-4800BF1EE403}
+	EndGlobalSection
+EndGlobal
