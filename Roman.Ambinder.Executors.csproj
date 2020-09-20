@@ -2,6 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Company>Roman Ambinder</Company>
+    <Authors>Roman Ambinder</Authors>
+    <Copyright>Roman Ambinder</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/CodeKipod/Executors</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/CodeKipod/Executors</RepositoryUrl>
+    <RepositoryType>GitHub</RepositoryType>
+    <PackageTags>Exeucotrs,ProducerConsumer</PackageTags>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
