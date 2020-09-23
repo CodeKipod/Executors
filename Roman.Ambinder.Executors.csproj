@@ -12,6 +12,9 @@
     <PackageTags>Exeucotrs,ProducerConsumer</PackageTags>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageReleaseNotes>Nugets update</PackageReleaseNotes>
+    <Description>Producer consumer base execution facilities</Description>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
