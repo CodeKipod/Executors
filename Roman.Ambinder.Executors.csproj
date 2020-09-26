@@ -12,9 +12,11 @@
     <PackageTags>Exeucotrs,ProducerConsumer</PackageTags>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageReleaseNotes>Nugets update</PackageReleaseNotes>
-    <Description>Producer consumer base execution facilities</Description>
-    <Version>1.0.1</Version>
+    <PackageReleaseNotes>Added by paramter by ref for callback consumer</PackageReleaseNotes>
+    <Description>Producer consumer based execution facilities</Description>
+    <Version>1.0.2</Version>
+    <AssemblyVersion>1.0.1.1</AssemblyVersion>
+    <FileVersion>1.0.1.1</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
